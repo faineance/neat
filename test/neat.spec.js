@@ -2,7 +2,7 @@ import chai from 'chai'
 import * as neat from '../lib/neat.js'
 
 chai.expect()
-chai.config.showDiff = false;
+chai.config.showDiff = true;
 const expect = chai.expect
 
 
